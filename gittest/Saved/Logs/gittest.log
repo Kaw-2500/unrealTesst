@@ -1159,3 +1159,42 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.14-12.45.02:864][ 10]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 11.065703
 [2025.09.14-12.45.02:867][ 10]LogEOSSDK: LogEOS: SDK Config Data - Watermark: 1542370262
 [2025.09.14-12.45.02:867][ 10]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11.065703, Update Interval: 303.997314
+[2025.09.14-12.46.38:773][296]LogDerivedDataCache: C:/Users/sakai/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.09.14-12.46.47:188][604]LogWindowsTextInputMethodSystem: Activated input method: 日本語 (日本) - Microsoft IME (TSF IME).
+[2025.09.14-12.47.05:712][ 83]LogSlate: Window '詳細' being destroyed
+[2025.09.14-12.47.07:753][246]LogSlate: Window '詳細' being destroyed
+[2025.09.14-12.47.08:553][302]LogSlate: Window '詳細' being destroyed
+[2025.09.14-12.47.15:241][820]LogSlate: Window '詳細' being destroyed
+[2025.09.14-12.47.33:597][363]LogSlate: Took 0.008286 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.09.14-12.47.57:518][873]LogSlate: Window '親クラスを選択' being destroyed
+[2025.09.14-12.47.57:531][873]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.09.14-12.47.57:563][873]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.09.14-12.47.57:593][874]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.09.14-12.48.00:799][202]LogContentBrowser: Attempting asset rename: NewBlueprint -> testblue
+[2025.09.14-12.48.00:813][202]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.09.14-12.48.02:055][318]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/testblue.testblue
+[2025.09.14-12.48.02:057][318]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2025.09.14-12.48.02:144][318]LogStreaming: Display: FlushAsyncLoading(394): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.14-12.48.18:521][162]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.14-12.48.18:560][162]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/testblue] ([2] browsable assets)...
+[2025.09.14-12.48.18:560][162]OBJ SavePackage: Finished generating thumbnails for package [/Game/testblue]
+[2025.09.14-12.48.18:560][162]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/testblue" FILE="../../../../../../UnrealGit/unrealTesst/gittest/Content/testblue.uasset" SILENT=true
+[2025.09.14-12.48.18:582][162]LogSavePackage: Moving output files for package: /Game/testblue
+[2025.09.14-12.48.18:583][162]LogSavePackage: Moving '../../../../../../UnrealGit/unrealTesst/gittest/Saved/testblue5558636B4E33CAB9CF2FEA9D880BAF1E.tmp' to '../../../../../../UnrealGit/unrealTesst/gittest/Content/testblue.uasset'
+[2025.09.14-12.48.18:607][162]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.124 ms
+[2025.09.14-12.48.18:653][162]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.14-12.48.18:653][162]LogContentValidation: Enabled validators:
+[2025.09.14-12.48.18:654][162]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.14-12.48.18:654][162]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.14-12.48.18:654][162]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.14-12.48.18:654][162]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.14-12.48.18:654][162]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.14-12.48.18:654][162]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.14-12.48.18:654][162]AssetCheck: /Game/testblue アセットを検証しています
+[2025.09.14-12.48.18:696][162]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../UnrealGit/unrealTesst/gittest/Saved/SourceControl/UncontrolledChangelists.json
+[2025.09.14-12.48.20:170][254]LogSlate: Window 'testblue' being destroyed
+[2025.09.14-12.48.20:183][254]LogSlate: Window 'testblue' being destroyed
+[2025.09.14-12.48.20:192][254]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.09.14-12.48.20:193][254]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.14-12.48.20:340][254]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.09.14-12.48.44:763][759]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
