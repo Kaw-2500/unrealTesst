@@ -1198,3 +1198,46 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.14-12.48.20:193][254]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2025.09.14-12.48.20:340][254]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
 [2025.09.14-12.48.44:763][759]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.09.14-12.50.06:894][ 97]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 315.428284
+[2025.09.14-12.50.07:899][100]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.14-12.50.07:899][100]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 316.098480, Update Interval: 357.947327
+[2025.09.14-12.51.09:059][364]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/testblue.testblue
+[2025.09.14-12.51.09:060][364]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.09.14-12.51.09:604][364]LogSlate: Took 0.009727 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2025.09.14-12.51.16:702][852]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.14-12.51.16:772][852]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/testblue] ([2] browsable assets)...
+[2025.09.14-12.51.16:772][852]OBJ SavePackage: Finished generating thumbnails for package [/Game/testblue]
+[2025.09.14-12.51.16:772][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/testblue" FILE="../../../../../../UnrealGit/unrealTesst/gittest/Content/testblue.uasset" SILENT=true
+[2025.09.14-12.51.16:786][852]LogSavePackage: Moving output files for package: /Game/testblue
+[2025.09.14-12.51.16:787][852]LogSavePackage: Moving '../../../../../../UnrealGit/unrealTesst/gittest/Saved/testblueDC26615244C2F32416C1E0B9A7F8DB45.tmp' to '../../../../../../UnrealGit/unrealTesst/gittest/Content/testblue.uasset'
+[2025.09.14-12.51.16:805][852]LogFileHelpers: InternalPromptForCheckoutAndSave took 102.784 ms (total: 187.908 ms)
+[2025.09.14-12.51.16:853][852]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.14-12.51.16:853][852]LogContentValidation: Enabled validators:
+[2025.09.14-12.51.16:853][852]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.14-12.51.16:853][852]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.14-12.51.16:853][852]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.14-12.51.16:853][852]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.14-12.51.16:853][852]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.14-12.51.16:853][852]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.14-12.51.16:853][852]AssetCheck: /Game/testblue アセットを検証しています
+[2025.09.14-12.51.19:617][ 10]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.09.14-12.51.19:696][ 10]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/testblue] ([2] browsable assets)...
+[2025.09.14-12.51.19:697][ 10]OBJ SavePackage: Finished generating thumbnails for package [/Game/testblue]
+[2025.09.14-12.51.19:697][ 10]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/testblue" FILE="../../../../../../UnrealGit/unrealTesst/gittest/Content/testblue.uasset" SILENT=true
+[2025.09.14-12.51.19:709][ 10]LogSavePackage: Moving output files for package: /Game/testblue
+[2025.09.14-12.51.19:710][ 10]LogSavePackage: Moving '../../../../../../UnrealGit/unrealTesst/gittest/Saved/testblue118D329B44697C955E819394E8AC89E7.tmp' to '../../../../../../UnrealGit/unrealTesst/gittest/Content/testblue.uasset'
+[2025.09.14-12.51.19:726][ 10]LogFileHelpers: InternalPromptForCheckoutAndSave took 108.849 ms (total: 296.757 ms)
+[2025.09.14-12.51.19:770][ 10]LogContentValidation: Display: Starting to validate 1 assets
+[2025.09.14-12.51.19:770][ 10]LogContentValidation: Enabled validators:
+[2025.09.14-12.51.19:770][ 10]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.09.14-12.51.19:770][ 10]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.09.14-12.51.19:770][ 10]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.09.14-12.51.19:770][ 10]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.09.14-12.51.19:770][ 10]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.09.14-12.51.19:770][ 10]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.09.14-12.51.19:770][ 10]AssetCheck: /Game/testblue アセットを検証しています
+[2025.09.14-12.51.21:033][ 97]LogSlate: Window 'testblue' being destroyed
+[2025.09.14-12.51.21:051][ 97]LogSlate: Window 'testblue' being destroyed
+[2025.09.14-12.51.21:054][ 97]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.09.14-12.51.21:054][ 97]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.14-12.51.21:143][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
